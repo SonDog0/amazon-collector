@@ -42,3 +42,5 @@ review_result = collector_review(
 )
 
 sql_amazon_review_csv_insert(review_result, today)
+
+print('test')
